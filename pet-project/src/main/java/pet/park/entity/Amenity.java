@@ -11,7 +11,10 @@ import java.util.Set;
 @Entity
 @Data
 public class Amenity {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6a73c0167bb50553acd6e1086190e677709127ba
  @Id
  @GeneratedValue(strategy = GenerationType.IDENTITY)
  private Long amenityId;
